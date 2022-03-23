@@ -1,0 +1,41 @@
+*{
+margin-left: 0;
+    
+}
+.m{
+    width: 120px;
+    border-radius: 100%;
+}
+.n{
+   width: 20px; 
+}
+.d2{
+    display: flex;
+
+}
+.d{
+    background: gray;
+    color: white;
+    
+}
+.g{
+    color: gray;
+}
+.v2{
+    width: 35%;
+
+}
+body{
+    font-size: 13px;
+}
+ .z{
+    list-style: none;
+}
+.d2{
+    font-weight: ;
+}
+
+
+
+
+
